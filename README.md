@@ -1,1 +1,1 @@
-- 👋 Hi, I’m Alex and I work as a Software developer
+- 👋 Hi, I’m Alex and I study Software Engineering
